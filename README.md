@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# KRYPT - BLOCKCHAIN SMART CONTRACT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic blockchain use case built with solidity. It comes with a Transactions contract, a test for that contract (in-progress), and a script that deploys that contract.
 
 Try running some of the following tasks:
 
